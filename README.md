@@ -1,7 +1,11 @@
 ### Hi there 👋
+- 🌱 I’m currently learning java, kotlin.
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c-0B2343?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstnalsgud">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIOUkoeran&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIOUkoeran&layout=compact&theme=tokyonight)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstnalsgud">
+
 
 <!--
 **SIOUkoeran/Sioukoeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
