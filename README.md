@@ -1,5 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIOUkoeran&show_icons=true&theme=tokyonight)
 
+출처: https://eunhee-programming.tistory.com/244?category=1233835 [코드짜는 문과녀]
 <!--
 **SIOUkoeran/Sioukoeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
