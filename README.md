@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIOUkoeran&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIOUkoeran&layout=compact&theme=tokyonight)
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstnalsgud">
+
 <!--
 **SIOUkoeran/Sioukoeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
