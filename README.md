@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning java, kotlin, elk.
+- 🌱 I’m currently learning java, kotlin
 
 ### stack
 
